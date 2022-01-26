@@ -1,0 +1,25 @@
+h3.plantilla{
+    background-color: black;
+    color: orange;
+    text-align: center;
+}
+
+p.porteros{
+color: black;
+font-weight: bold;
+}
+
+p.defensas{
+    color: black;
+    font-weight: bold;
+}
+
+p.centrocampistas{
+    color: black;
+    font-weight: bold;
+}
+
+p.delanteros{
+    color: black;
+    font-weight: bold;
+}
